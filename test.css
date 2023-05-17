@@ -1,0 +1,12 @@
+.content {
+  margin-right: 10px;
+  bottom: 100px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+ span{
+   margin:5;
+   color: green;
+ }
